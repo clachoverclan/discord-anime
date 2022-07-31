@@ -1,20 +1,8 @@
-<p align="center">
-  <a href="https://www.npmjs.com/package/random-anime">
-    <img src="https://cdn.discordapp.com/attachments/666573321894232095/690961950527717456/random-anime.png" alt="Random Anime">
-  </a>
-</p>
-<p align="center">
-  <a href="https://www.npmjs.com/package/random-anime"><img src="https://img.shields.io/npm/v/random-anime.svg?maxAge=3600" alt="NPM version" />
-  </a>
-  <a href="https://www.npmjs.com/package/random-anime"><img src="https://img.shields.io/npm/dt/random-anime.svg?maxAge=3600" alt="NPM downloads" />
-   </a>
-  </div>
-</p>
 <h3 align="center"><strong>Generate random anime images with a huge database.</strong></h3>
 
 ## Installation
 ```bash
-$ npm install random-anime
+$ npm install clachoverclan/discord-anime
 ```
 
 ## Usage
@@ -29,7 +17,7 @@ console.log(nsfw)  //https://nsfw.jpg
 
 ## Discord Bot
 ```javascript
-const randomanime = require("random-anime");
+const randomanime = require("discord-anime");
 const Discord = require("discord.js");
 const client = new Discord.Client();
 
@@ -54,7 +42,19 @@ client.login("BOT_TOKEN");
 **Options** | **Description** | **Usage**
 :---: | --- | ---
 anime | Random anime images. | `randomanime.anime()`
+cuddle | Random cuddle anime images. | `randomanime.cuddle()`
+hi | Random hi anime images. | `randomanime.hi()`
+hug | Random hug anime images. | `randomanime.hug()`
+kiss | Random kiss anime images. | `randomanime.kiss()`
+nervous | Random nervous anime images. | `randomanime.nervous()`
+pat | Random pat anime images. | `randomanime.pat()`
+pout | Random pout anime images. | `randomanime.pout()`
+punch | Random punch anime images. | `randomanime.punch()`
+run | Random run anime images. | `randomanime.run()`
+slap | Random slap anime images. | `randomanime.slap()`
+sleep | Random sleep anime images. | `randomanime.sleep()`
+wasted | Random wasted anime images. | `randomanime.wasted()`
 nsfw | Random NSFW anime images. | `randomanime.nsfw()`
 
 ## License
-[MIT](https://github.com/amistaa/random-anime/blob/master/LICENSE) © Amista
+[MIT](https://github.com/clachoverclan/discord-anime/blob/master/LICENSE) © C1ach0
