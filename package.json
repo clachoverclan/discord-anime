@@ -1,5 +1,5 @@
 {
-  "name": "random-anime",
+  "name": "discord-anime",
   "version": "1.0.6",
   "description": "Generate random anime images with many features.",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/amistaa/random-anime.git"
+    "url": "git+ssh://git@github.com/clachoverclan/discord-anime.git"
   },
   "keywords": [
     "anime",
@@ -17,10 +17,10 @@
     "discord",
     "bot"
   ],
-  "author": "Amista",
+  "author": "C1ach0",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/amistaa/random-anime/issues"
+    "url": "https://github.com/clachoverclan/discord-anime/issues"
   },
-  "homepage": "https://github.com/amistaa/random-anime#readme"
+  "homepage": "https://github.com/clachoverclan/discord-anime#readme"
 }
