@@ -54,7 +54,6 @@ run | Random run anime images. | `randomanime.run()`
 slap | Random slap anime images. | `randomanime.slap()`
 sleep | Random sleep anime images. | `randomanime.sleep()`
 wasted | Random wasted anime images. | `randomanime.wasted()`
-nsfw | Random NSFW anime images. | `randomanime.nsfw()`
 
 ## License
 [MIT](https://github.com/clachoverclan/discord-anime/blob/master/LICENSE) © C1ach0
